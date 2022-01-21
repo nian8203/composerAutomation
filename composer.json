@@ -63,8 +63,8 @@
     "require": {
         "php": ">=7.0.8",
         "aws/aws-sdk-php": "^3.194",
-        "bits/adf_devsecops": "1.2.3",
-        "bits/adf_simple_auth": "1.3.6",
+        "bits/adf_devsecops": "1.2.4",
+        "bits/adf_simple_auth": "1.3.8",
         "bits/express_auth": "1.0.0",
         "bits/aws_service": "1.1.0",
         "bits/oneapp": "1.6.8",
